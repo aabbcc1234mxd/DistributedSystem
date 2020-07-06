@@ -1,2 +1,2 @@
 # DistributedSystem
-baadic code study of Golang and distributed system
+basic code study of Golang and distributed system
